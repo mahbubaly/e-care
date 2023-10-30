@@ -1,0 +1,366 @@
+* {
+    font-family: 'Inter';
+}
+
+.primaryGradient {
+    background: linear-gradient(270deg, #E52E6C 0%, #71499D 100%);
+
+
+}
+
+.gradient_text {
+    background: linear-gradient(270deg, #E52E6C 0%, #71499D 100%);
+    /* Define your gradient colors and direction */
+    -webkit-background-clip: text;
+    /* For WebKit-based browsers (Safari, Chrome) */
+    background-clip: text;
+    /* For Firefox and modern browsers */
+    color: transparent;
+    /* Make the text transparent so the gradient shows through */
+}
+
+
+.textColorDe {
+    background: linear-gradient(270deg, #E52E6C 0%, #71499D 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.textColor23 {
+    background: linear-gradient(270deg, #71499D 0%, #E52E6C 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.menuBar {
+    color: linear-gradient(270deg, #E52E6C 0%, #71499D 100%);
+
+
+}
+
+
+.Normal_text_color {
+    color: #555E71;
+}
+
+.Normal_text_color:hover {
+    background: linear-gradient(270deg, #E52E6C 0%, #71499D 100%);
+    /* Define your gradient colors and direction */
+    -webkit-background-clip: text;
+    /* For WebKit-based browsers (Safari, Chrome) */
+    background-clip: text;
+    /* For Firefox and modern browsers */
+    color: transparent;
+    /* Make the text transparent so the gradient shows through */
+    font-weight: bold;
+}
+
+
+.Create {
+    border-radius: 8px;
+    background: linear-gradient(90deg, #E62E6C 0%, #6F4A9E 100%);
+}
+
+.Create:hover {
+    border-radius: 8px;
+    background: linear-gradient(90deg, #9e0b3f 0%, rgb(54, 13, 116) 100%);
+}
+
+
+.CreateTrial {
+    border-radius: 8px;
+    background: linear-gradient(90deg, rgba(230, 46, 108, 0.20) 0%, rgba(111, 74, 158, 0.20) 100%);
+    font-weight: 500;
+    color: black;
+}
+
+
+
+.CreateTrial:hover {
+    border-radius: 8px;
+    background: linear-gradient(90deg, #E62E6C 0%, #6F4A9E 100%);
+    font-weight: 700;
+    color: white;
+}
+
+
+
+.CreateSection {
+    border-radius: 8px;
+    background: linear-gradient(90deg, #E62E6C 0%, #6F4A9E 100%);
+
+}
+
+.ResearchSection {
+    border-radius: 16px;
+    background: linear-gradient(90deg, rgba(230, 46, 108, 0.20) 0%, rgba(111, 74, 158, 0.20) 100%);
+    color: #555E71;
+    font-weight: 500;
+}
+
+.ResearchSection:hover {
+    border-radius: 16px;
+    background: linear-gradient(90deg, #E62E6C 0%, #6F4A9E 100%);
+    color: white;
+    font-weight: 600;
+}
+
+
+
+.LearningSection {
+    border-radius: 10px;
+    background: linear-gradient(270deg, rgba(229, 46, 108, 0.20) 0%, rgba(113, 73, 157, 0.20) 100%), #FFF;
+    box-shadow: 0px 18px 44px 0px rgba(0, 0, 0, 0.10);
+
+}
+
+.hrLine {
+    width: 50px;
+    height: 5px;
+    border-radius: 10px;
+    background: linear-gradient(270deg, #E52E6C 0%, #71499D 100%);
+}
+
+
+.countSection {
+    border-radius: 20px 0px 0px 20px;
+    background: linear-gradient(270deg, #E52E6C 0%, #71499D 100%);
+    padding-left: 90px;
+    padding-right: 135px;
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+
+.boxShadow {
+    border-radius: 12px;
+    border: 1px solid rgba(16, 24, 40, 0.10);
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(16, 24, 40, 0.04);
+}
+
+
+
+.boxShadow2 {
+    border-radius: 12px;
+    border: 1px solid #D8D8D8;
+    box-shadow: 0px 0px 20px 0px rgba(16, 24, 40, 0.04);
+}
+
+
+
+.LearnMoreButton {
+    border-radius: 30px;
+    background: linear-gradient(90deg, rgba(230, 46, 108, 0.20) 0%, rgba(111, 74, 158, 0.20) 100%);
+    color: #555E71;
+    font-weight: 500;
+}
+
+.LearnMoreButton:hover {
+    border-radius: 30px;
+    background: linear-gradient(270deg, #E52E6C 0%, #71499D 100%);
+    color: white;
+    font-weight: 600;
+}
+
+
+
+.swiper-pagination-bullet-active {
+    background: linear-gradient(270deg, #E52E6C 0%, #71499D 100%) !important;
+}
+
+.popularClassBox {
+    border-radius: 12px;
+    border: 1px solid #E1E1E1;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(16, 24, 40, 0.04);
+
+
+}
+
+.HoursMess {
+    border-radius: 4px;
+    background: linear-gradient(90deg, rgba(230, 46, 108, 0.20) 0%, rgba(111, 74, 158, 0.20) 100%);
+
+    color: #555E71;
+
+}
+
+.FullStartBlack {
+    border-radius: 20px;
+    background: linear-gradient(90deg, rgba(230, 46, 108, 0.20) 0%, rgba(111, 74, 158, 0.20) 100%);
+    color: #555E71;
+
+}
+
+.teacherBox {
+    border-radius: 12px;
+    border: 1px solid #E1E1E1;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(16, 24, 40, 0.04);
+}
+
+
+.InputBackground {
+    border-radius: 20px;
+    background: linear-gradient(90deg, rgba(111, 74, 158, 0.20) 0%, rgba(230, 46, 108, 0.20) 100%);
+}
+
+.InputField {
+    border-radius: 8px;
+    border: 1px solid #E1E1E1;
+    background: #FFF;
+}
+
+.yourInputElementId {
+    outline: none;
+}
+
+.Rating {
+    border-radius: 10px;
+    background: linear-gradient(90deg, #E62E6C 0%, #6F4A9E 100%);
+}
+
+.swipeBtn {
+    border-radius: 50px;
+    opacity: 0.6;
+    background: linear-gradient(90deg, rgba(230, 46, 108, 0.20) 0%, rgba(111, 74, 158, 0.20) 100%);
+}
+
+.swipeBtn:hover {
+    border-radius: 50px;
+    background: linear-gradient(270deg, #E52E6C 0%, #71499D 100%);
+    opacity: 1;
+    color: white;
+}
+
+.GooApp {
+    border-radius: 10px;
+    background: #FFF;
+}
+
+/* Responsive design  */
+
+
+
+
+@media (min-width: 320px) {
+    .container {
+        max-width: 320px;
+
+
+
+    }
+
+    .Responsive_navbar {
+
+        padding-left: 20px;
+        padding-right: 20px;
+
+
+    }
+
+}
+
+@media (min-width: 375px) {
+    .container {
+        max-width: 375px;
+
+    }
+
+}
+
+@media (min-width: 425px) {
+    .container {
+        max-width: 425px;
+
+    }
+
+}
+
+@media (min-width: 640px) {
+    .container {
+        max-width: 640px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 768px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .container {
+        max-width: 1280px;
+
+
+
+    }
+
+    .Responsive_navbar {
+
+        padding-left: 50px;
+        padding-right: 50px;
+
+
+    }
+
+    .bannerLeft {
+        padding-left: 50px;
+
+    }
+
+
+}
+
+@media (min-width: 1280px) {
+    .container {
+        max-width: 1280px;
+
+
+    }
+
+    .Responsive_navbar {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .bannerLeft {
+        padding-left: 50px;
+
+    }
+
+}
+
+@media (min-width: 1440px) {
+    .container {
+        max-width: 1440px;
+
+
+
+    }
+
+
+    .Responsive_navbar {
+        padding-left: 135px;
+        padding-right: 135px;
+    }
+
+    .bannerLeft {
+        padding-left: 135px;
+
+    }
+
+
+}
+
+
+@media (min-width: 1536px) {
+    .container {
+        max-width: 1536px;
+    }
+}
